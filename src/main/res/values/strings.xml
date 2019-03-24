@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">УРадіо</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_uradio">Урадіо</string>
+    <string name="duzhe">Дуже радіо</string>
+    <string name="zahpol">Західний полюс</string>
+    <string name="uh">Ух радіо</string>
+    <string name="molode">Молоде радіо</string>
+    <string name="yaskrave">Яскраве радіо Вінниця</string>
+    <string name="nezalezhnist">Радіо Незалежність</string>
+    <string name="rep">Реп</string>
+    <string name="dzvony">Дзвони</string>
+    <string name="vezha">Радіо Вежа</string>
+    <string name="rtrack">Радіо Трек</string>
+    <string name="kazky">Казки</string>
+    <string name="duzhe_">Сяйво</string>
+    <string name="zahpol_">Стрий ФМ</string>
+    <string name="uh_">Maximum FM</string>
+    <string name="molode_">Радіо Такт</string>
+    <string name="yaskrave_">Голос свободи</string>
+    <string name="nezalezhnist_">Країна ФМ</string>
+    <string name="rep_">Рок</string>
+    <string name="dzvony_">Радіо Релакс</string>
+    <string name="vezha_">Культура</string>
+    <string name="rtrack_">УР-1</string>
+    <string name="uradio">ВСвіт УРадіо</string>
+    <string name="current">Виберіть станцію</string>
+    <string name="imgDesc"></string>
+    <string name="stop">СТОП</string>
+    <string name="about_text">\
+Контакти:\n
+веб: <a href="https://vsvitapk.blogspot.com">vsvitapk.blogspot.com</a>\n
+тел. <a href="tel:+380671968268"><b>+380671968268</b></a>\n
+емейл: <a href="mailto:czaass@gmail.com?subject=Internet-radio player&#x26;body=&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x456; &#x437;&#x430; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x443;!">czaass@gmail.com</a>
+</string>
+    <string name="about_title">В Світ УРадіо</string>
+    
+
+</resources>

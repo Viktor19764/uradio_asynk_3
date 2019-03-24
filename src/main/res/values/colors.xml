@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color type="color" name="red1">#FF0000</color>
+    <color name="current_text">#FFFFB1</color>
+    <color name="yellow">#FFFF00</color>
+</resources>
+
+
